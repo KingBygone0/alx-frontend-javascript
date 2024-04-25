@@ -1,1 +1,0 @@
-This directory contains 0x02. ES6 classes solutions
